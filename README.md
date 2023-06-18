@@ -27,6 +27,7 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
 [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-black?style=for-the-badge&logo=codeigniter)](https://github.com/shirooneko)
 [![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)](https://github.com/shirooneko)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/shirooneko)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/wervlad)
 
 ### OS
