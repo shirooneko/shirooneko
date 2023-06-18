@@ -14,7 +14,7 @@
 ### Languages
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/shirooneko)
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/shirooneko)
-[![PHP](https://img.shields.io/badge/PHP-000080?style=for-the-badge&logo=php)](https://github.com/shirooneko)
+[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/shirooneko)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/shirooneko)
 
 
