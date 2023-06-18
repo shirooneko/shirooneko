@@ -12,7 +12,14 @@
 </p>
 
 ### Languages
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/shirooneko)
+[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/shirooneko)
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/shirooneko)
+
+
+
+
+
 
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
