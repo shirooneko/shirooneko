@@ -31,7 +31,7 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/shirooneko)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/shirooneko)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?style=for-the-badge&logo=arch-linux)](https://github.com/shirooneko)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/shirooneko)
 
 <details>
