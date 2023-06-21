@@ -32,6 +32,8 @@
 
 ### OS
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?style=for-the-badge&logo=arch-linux)](https://github.com/shirooneko)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-black?style=for-the-badge&logo=linux-mint)](https://github.com/shirooneko)
+[![Manjaro Linux](https://img.shields.io/badge/Manjaro%20Linux-black?style=for-the-badge&logo=Manjaro)](https://github.com/shirooneko)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/shirooneko)
 
 <details>
