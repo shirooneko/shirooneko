@@ -36,7 +36,6 @@
 [![Manjaro Linux](https://img.shields.io/badge/Manjaro%20Linux-black?style=for-the-badge&logo=Manjaro)](https://github.com/shirooneko)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/shirooneko)
 
-<details>
 <p align="center">
   <a href="https://github.com/shirooneko">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirooneko&theme=transparent" />
@@ -51,8 +50,9 @@
      
   </a>
 </p>
-</details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirooneko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <p align="center">
   <a href="https://github.com/shirooneko">
