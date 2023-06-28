@@ -36,6 +36,13 @@
 [![Manjaro Linux](https://img.shields.io/badge/Manjaro%20Linux-black?style=for-the-badge&logo=Manjaro)](https://github.com/shirooneko)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/shirooneko)
 
+### Favorite Tools
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
+[![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=blue)](https://www.figma.com/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=blue)](https://www.microsoft.com/en-us/sql-server/)
+[![PHPMyAdmin](https://img.shields.io/badge/PHPMyAdmin-black?style=for-the-badge&logo=phpmyadmin&logoColor=blue)](https://www.phpmyadmin.net/)
+
+
 <p align="center">
   <a href="https://github.com/shirooneko">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirooneko&theme=transparent" />
