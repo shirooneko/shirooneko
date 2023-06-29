@@ -6,7 +6,7 @@
         I'm Apri.<br>
         I am a beginner front-end developer who is actively learning and enhancing skills in building attractive and responsive user interfaces.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/apriyansyah/">
+    <a href="https://www.linkedin.com/in/apriyansyah/" __blank>
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
