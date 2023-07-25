@@ -58,8 +58,5 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shirooneko&bg_color=000529&color=ffffff&line=2a34cb&point=00f5cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <a href="https://github.com/shirooneko">
-    <img src="https://komarev.com/ghpvc/?username=shirooneko&color=blue&style=flat)" />
-  </a>
-</p>
+<p align="center"><b>Profile Visitor Count</b><img src="Hi.gif" width="30px"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/shirooneko/count.svg" alt="visitor badge" width="30%"></p>
