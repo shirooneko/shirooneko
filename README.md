@@ -12,7 +12,9 @@
     </a>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/aa10d65c-32a9-4344-a9bb-ab2953bb3340.svg)](https://wakatime.com/@aa10d65c-32a9-4344-a9bb-ab2953bb3340)
+[![wakatime](https://wakatime.com/badge/user/aa10d65c-32a9-4344-a9bb-ab2953bb3340.svg)](https://wakatime.com/@aa10d65c-32a9-4344-a9bb-ab2953bb3340) 
+![GitHub followers](https://img.shields.io/github/followers/shirooneko)
+
 
 ### Languages
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/shirooneko)
