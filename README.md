@@ -5,12 +5,14 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Apri.<br>
-        I am a beginner front-end developer who is actively learning and enhancing skills in building attractive and responsive user interfaces.<br>
+        I am a junior web developer who is actively learning and enhancing skills in building attractive and responsive user interfaces.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/apriyansyah/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/aa10d65c-32a9-4344-a9bb-ab2953bb3340.svg)](https://wakatime.com/@aa10d65c-32a9-4344-a9bb-ab2953bb3340)
 
 ### Languages
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/shirooneko)
