@@ -60,6 +60,8 @@
   </a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirooneko&layout=compact)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shirooneko&bg_color=000529&color=ffffff&line=2a34cb&point=00f5cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"><b>Profile Visitor Count</b><img src="Hi.gif" width="30px"></p>
