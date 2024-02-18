@@ -1,5 +1,5 @@
 <img width="100%" src="https://www.instavyapar.com/assets/images/inner_services/Website_Redesigning_(2).gif" />
-<h1 align="center">Hi, there!👋h1>
+<h1 align="center">Hi, there!👋</h1>
 
 <p align="center">
     <b>Welcome to my github!</b><br><br>
