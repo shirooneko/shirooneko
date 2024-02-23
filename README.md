@@ -58,13 +58,15 @@
   <a href="https://github.com/shirooneko">
       <img src="https://github-readme-stats.vercel.app/api?username=shirooneko&show_icons=true&bg_color=00000000&hide_border=true" />
   </a>
+    <a href="https://github.com/shirooneko">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shirooneko&theme=tokyonight" alt="Harlok's WakaTime stats" width="400">  
+    </a>
+    <a href="https://github.com/shirooneko">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirooneko&layout=compact&theme=tokyonight"  width="400">  
+    </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirooneko&layout=compact&theme=tokyonight)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shirooneko&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shirooneko&bg_color=000529&color=ffffff&line=2a34cb&point=00f5cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"><b>Profile Visitor Count</b><img src="Hi.gif" width="30px"></p>
 <p align="center"><img src="https://profile-counter.glitch.me/shirooneko/count.svg" alt="visitor badge" width="30%"></p>
