@@ -15,17 +15,13 @@
 [![wakatime](https://wakatime.com/badge/user/aa10d65c-32a9-4344-a9bb-ab2953bb3340.svg)](https://wakatime.com/@aa10d65c-32a9-4344-a9bb-ab2953bb3340) 
 ![GitHub followers](https://img.shields.io/github/followers/shirooneko)
 
+<hr/>
 
 ### Languages
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/shirooneko)
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/shirooneko)
 [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/shirooneko)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/shirooneko)
-
-
-
-
-
 
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
@@ -35,18 +31,13 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/shirooneko)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/shirooneko)
 
-### OS
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?style=for-the-badge&logo=arch-linux)](https://github.com/shirooneko)
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-black?style=for-the-badge&logo=linux-mint)](https://github.com/shirooneko)
-[![Manjaro Linux](https://img.shields.io/badge/Manjaro%20Linux-black?style=for-the-badge&logo=Manjaro)](https://github.com/shirooneko)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/shirooneko)
-
 ### Favorite Tools
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=blue)](https://www.figma.com/)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=blue)](https://www.microsoft.com/en-us/sql-server/)
 [![PHPMyAdmin](https://img.shields.io/badge/PHPMyAdmin-black?style=for-the-badge&logo=phpmyadmin&logoColor=blue)](https://www.phpmyadmin.net/)
 
+<hr/>
 
 <p align="center">
   <a href="https://github.com/shirooneko">
@@ -66,7 +57,7 @@
     </a>
 </p>
 
-
+<hr/>
 
 <p align="center"><b>Profile Visitor Count</b><img src="Hi.gif" width="30px"></p>
 <p align="center"><img src="https://profile-counter.glitch.me/shirooneko/count.svg" alt="visitor badge" width="30%"></p>
