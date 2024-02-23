@@ -43,9 +43,7 @@
   <a href="https://github.com/shirooneko">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirooneko&theme=tokyonight" />
   </a>
-  <a href="https://github.com/shirooneko">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirooneko&hide_border=true&card_width=338&theme=transparent" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shirooneko&theme=github-dark-blue&locale=id&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   <a href="https://github.com/shirooneko">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirooneko&theme=tokyonight" />
   </a>
