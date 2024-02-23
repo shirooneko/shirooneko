@@ -41,13 +41,13 @@
 
 <p align="center">
   <a href="https://github.com/shirooneko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirooneko&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirooneko&theme=tokyonight" />
   </a>
   <a href="https://github.com/shirooneko">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirooneko&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/shirooneko">
-      <img src="https://github-readme-stats.vercel.app/api?username=shirooneko&show_icons=true&bg_color=00000000&hide_border=true" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shirooneko&theme=tokyonight" />
   </a>
     <a href="https://github.com/shirooneko">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shirooneko&theme=tokyonight" alt="Harlok's WakaTime stats" width="400">  
